@@ -5,9 +5,9 @@
 제가 추구하는 개발자로 성장하기 위해 학습하면서 '왜'라는 질문을 내린 것들을 기록하는 공간입니다.
 
 ## React
+- [Object.is()와 === 차이점](https://github.com/saseungg/why/issues/2)
 - 클린업 함수는 비동기 작업에서 무조건 쓰는게 좋을까?
 - strict mode를 쓰는 이유
 - React는 값이 바뀐걸 어떻게 감지할까?
 - hook은 return값이 undefined?
 - preflight는 뭘까?
-- object.is()는 뭐고 ===의 차이는?
