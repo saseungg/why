@@ -6,6 +6,7 @@
 
 ## React
 - [Object.is()와 === 차이점](https://github.com/saseungg/why/issues/2)
+- [useMemo로 캐쉬된 값은 메모리에 어느 시점에 삭제될까?](https://github.com/saseungg/why/issues/3)
 - 클린업 함수는 비동기 작업에서 무조건 쓰는게 좋을까?
 - strict mode를 쓰는 이유
 - React는 값이 바뀐걸 어떻게 감지할까?
