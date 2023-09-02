@@ -12,3 +12,8 @@
 - React는 값이 바뀐걸 어떻게 감지할까?
 - hook은 return값이 undefined?
 - preflight는 뭘까?
+
+## Node.js
+- [Node.js는 프레임워크일까?](https://github.com/saseungg/why/issues/5)
+## Package
+- [npm과 yarn 차이는 뭘까?](https://github.com/saseungg/why/issues/4)
