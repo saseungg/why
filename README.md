@@ -10,6 +10,7 @@
 - [StrictMode를 쓰는 이유는 뭘까?](https://github.com/saseungg/why/issues/1)
 - [부모 컴포넌트에서 state를 전부 관리하는 것이 과연 좋을까?](https://github.com/saseungg/why/issues/10)
 - [업데이트 함수(setState)를 props로 잔달하는 것이 왜 안좋을까?](https://github.com/saseungg/why/issues/9)
+- [json파일을 public 폴더에 넣어야하는 이유](https://github.com/saseungg/why/issues/11)
 
 ## Node.js
 - [Node.js는 프레임워크일까?](https://github.com/saseungg/why/issues/5)
@@ -19,3 +20,4 @@
 
 ## CSS
 - [Position 설정 값은 같은데 왜 컴포넌트 위치가 다르게 표시될까?](https://github.com/saseungg/why/issues/8)
+
